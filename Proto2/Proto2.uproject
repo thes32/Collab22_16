@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{E0C7DBA6-418D-E679-0B3E-09A8CD720D40}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Proto2",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
